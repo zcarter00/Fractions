@@ -1,0 +1,11 @@
+
+public class Runner 
+{
+    public static void main(String[] args)
+    {
+        Fraction myFraction = new Fraction(2,3);
+        Fraction otherFraction = new Fraction();
+        System.out.println(myFraction);
+        System.out.println(otherFraction);
+    }
+}
